@@ -1,0 +1,12 @@
+#container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+}
+.products-details{
+  box-shadow: 0 0 3px 1px #00000061;
+  text-align: center;
+  border-radius: 8px;
+  background-color: gainsboro;
+  font-size: 1.5rem;
+}
